@@ -1,0 +1,9 @@
+@media screen and (max-width: 1200px) {
+  #desktop-nav{
+    display: none;
+  }
+  /* cuando la patanlla sea menor a 1200px el menu de movil no se mostrara*/
+  #hambuger-nav{
+    display: flex;
+  }
+}
